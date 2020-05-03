@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="http://www.teleguide.info/download/new3/jtv.zip" cache=1000 deinterlace=1 m3uautoload=1
 #EXTINF:-1,01 ПЕРВЫЙ КАНАЛ
 http://79.135.71.195:8001
 #EXTINF:-1,02 РОССИЯ-1
